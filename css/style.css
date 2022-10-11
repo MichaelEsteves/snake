@@ -1,0 +1,29 @@
+body{
+    background: #efefef;
+}
+
+canvas{
+    display: block;
+    margin: 0 auto;
+}
+
+.score-container{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.score-container div{
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 40px;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+.current-score{
+    float: left;
+}
+
+.high-score{
+    float: right;
+}
